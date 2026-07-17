@@ -1,4 +1,3 @@
-# barberaohiro03-cloud.github.io
 <!DOCTYPE html>
 <html lang="ja"><head>
 <meta charset="utf-8">
